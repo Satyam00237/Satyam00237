@@ -91,12 +91,11 @@
 
 ---
 
-# 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam00237&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam00237&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" />
 </p>
-
 ---
 
 # 📅 Contribution & Commit Graph
