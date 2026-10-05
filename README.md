@@ -23,7 +23,7 @@
 ## 🚀 About Me
 
 * 🔭 I’m currently working on **AI-powered full-stack applications and exploring Generative AI**
-* 🌱 I’m currently learning **Generative AI, System Design, and Advanced Full-Stack Development AWS Cloud**
+* 🌱 I’m currently learning **Generative AI, System Design, AWS Cloud and Advanced Full-Stack Development**
 * 👯 I’m looking to collaborate on **AI/ML, Full-Stack, and Open-Source projects**
 * 🤝 I’m looking for help with **Advanced AI/ML and scalable full-stack development**
 * 💬 Ask me about **React, Node.js, Java, Python, AWS Cloud, AI/ML, and Full-Stack Development**
