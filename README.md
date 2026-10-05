@@ -23,10 +23,10 @@
 ## 🚀 About Me
 
 * 🔭 I’m currently working on **AI-powered full-stack applications and exploring Generative AI**
-* 🌱 I’m currently learning **Generative AI, System Design, and Advanced Full-Stack Development**
+* 🌱 I’m currently learning **Generative AI, System Design, and Advanced Full-Stack Development AWS Cloud**
 * 👯 I’m looking to collaborate on **AI/ML, Full-Stack, and Open-Source projects**
 * 🤝 I’m looking for help with **Advanced AI/ML and scalable full-stack development**
-* 💬 Ask me about **React, Node.js, Java, Python, AI/ML, and Full-Stack Development**
+* 💬 Ask me about **React, Node.js, Java, Python, AWS Cloud, AI/ML, and Full-Stack Development**
 * 👨‍💻 All of my projects are available at **[My Portfolio](https://satyamportfolio-mu.netlify.app/)**
 * 📄 Know about my experiences through **[My Resume](https://drive.google.com/file/d/1bCo2k77_dZTsJaoq-MET8z7-Ut4htiqb/view?usp=sharing)**
 * 📫 Reach me at **[satyam00237@gmail.com](mailto:satyam00237@gmail.com)**
