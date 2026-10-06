@@ -28,7 +28,7 @@
 * 🤝 I’m looking for help with **Advanced AI/ML and scalable full-stack development**
 * 💬 Ask me about **React, Node.js, Java, Python, AWS Cloud, AI/ML, and Full-Stack Development**
 * 👨‍💻 All of my projects are available at **[My Portfolio](https://satyamportfolio-mu.netlify.app/)**
-* 📄 Know about my experiences through **[My Resume](https://drive.google.com/file/d/1bCo2k77_dZTsJaoq-MET8z7-Ut4htiqb/view?usp=sharing)**
+* 📄 Know about my experiences through **[My Resume](https://drive.google.com/file/d/1VkXif4oy7oQ7_utOouagaQnNFFC1kVr3/view?usp=sharing)**
 * 📫 Reach me at **[satyam00237@gmail.com](mailto:satyam00237@gmail.com)**
 * ⚡ Fun fact: **I turn coffee, curiosity, and random ideas into code. ☕💻**
 
