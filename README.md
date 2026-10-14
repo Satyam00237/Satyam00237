@@ -67,6 +67,68 @@
 </p>
 
 ---
+### ☁️ AWS Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes" alt="AWS, Terraform, Docker and Kubernetes" />
+</p>
+
+#### 🚀 AWS Services & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic%20Load%20Balancing-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Auto%20Scaling-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20CloudWatch-E7157B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+</p>
+
+#### 🛠️ Services & Concepts
+
+| Category | Technologies & Concepts |
+|---|---|
+| **Compute** | Amazon EC2, AMIs, AWS Lambda |
+| **Identity & Security** | AWS IAM, Users, Groups, Roles, Policies, MFA |
+| **Storage** | Amazon S3, EBS, Snapshots, Versioning, Replication, Lifecycle Policies, Storage Classes, Glacier, Snow Family |
+| **Databases** | Amazon RDS, Amazon DynamoDB |
+| **Networking** | Amazon VPC, VPC Creation, Subnets, Route Tables, Internet Gateway, NAT Gateway, Security Groups, Network ACLs |
+| **DNS & CDN** | Amazon Route 53, Amazon CloudFront |
+| **Load Balancing & Scaling** | Application Load Balancer (ALB), Target Groups, Auto Scaling Groups |
+| **Containers & Orchestration** | Amazon ECS, Amazon EKS, Docker, Kubernetes |
+| **Infrastructure as Code (IaC)** | AWS CloudFormation, Terraform |
+| **Frontend & Deployment** | AWS Amplify |
+| **Monitoring** | Amazon CloudWatch, Metrics, Alarms |
+| **Developer Tools** | AWS CLI, AWS Management Console, Linux, Apache, SSH, PuTTY |
+
+#### 💻 Hands-on Practice
+
+- Deployed a web server on Amazon EC2 using Apache HTTP Server.
+- Configured IAM permissions and EC2 security groups.
+- Practiced EBS volumes, snapshots, AMIs, and instance management.
+- Explored S3 bucket policies, versioning, replication, and lifecycle rules.
+- Created an Application Load Balancer and explored target groups.
+- Practiced VPC creation and networking fundamentals.
+- Learning Infrastructure as Code (IaC) with Terraform and AWS CloudFormation.
+- Exploring serverless computing, managed databases, CDN, and container services.
+
+#### 📚 Currently Learning
+
+`AWS Networking` · `Amazon RDS` · `DynamoDB` · `Lambda` · `CloudFormation` · `Terraform` · `ECS` · `EKS` · `CloudFront`
+
+---
 
 # 📊 GitHub Analytics
 
