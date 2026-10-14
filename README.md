@@ -211,7 +211,6 @@ A collection of machine learning and AI projects covering prediction, NLP, intel
 # 🏅 Achievements
 
 * 🥉 Secured **3rd Rank Globally** in Saksham AI Codethon
-* 🥇 Secured **1st Rank in University** in Saksham AI Codethon
 * 💻 Built multiple **AI, ML and Full-Stack applications**
 * 🚀 Experienced with modern **MERN & AI technologies**
 * 🧩 Active problem solver and DSA enthusiast
