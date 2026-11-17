@@ -107,22 +107,28 @@
 
 
 
-
 # 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=satyam00237&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=satyam00237&theme=tokyonight&hide_border=true&v=2" />
+</p>
 
 ---
 
 ## 🐍 Contribution Activity
 
-![Contribution Snake](https://raw.githubusercontent.com/Satyam00237/Satyam00237/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satyam00237/Satyam00237/output/github-contribution-grid-snake-dark.svg?v=2" width="95%" />
+</p>
 
 ---
 
 # 📅 Contribution & Commit Graph
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam00237&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam00237&theme=tokyonight&v=2" />
+</p>
+
 
 
 # 📊 GitHub Statistics
