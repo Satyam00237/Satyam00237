@@ -78,7 +78,9 @@
 ### ⭐ GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam00237&theme=tokyonight" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=satyam00237&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
