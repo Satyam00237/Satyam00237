@@ -81,18 +81,14 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=satyam00237&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=satyam00237&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Satyam00237/Satyam00237/output/github-contribution-grid-snake-dark.svg?v=2" width="95%" />
-</p>
+
 
 ---
 
