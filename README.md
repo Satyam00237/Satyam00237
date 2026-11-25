@@ -80,13 +80,11 @@
 ---
 # 🔥 Contribution Streak
 
-# 🔥 Contribution Streak
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=satyam00237&theme=tokyonight&hide_border=true&v=79"
     alt="GitHub Streak"
-    width="95%"
+    width="85%"
   />
 </p>
 ---
